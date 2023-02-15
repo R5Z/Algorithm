@@ -11,3 +11,4 @@ for i in dial:
                 time += dial.index(i) +3
 
 print(time)
+
