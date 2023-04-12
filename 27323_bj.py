@@ -7,5 +7,7 @@ if __name__ == "__main__":
     B = int(input())
     print(Rectangle(A, B))
 
-
+# A = int(input())
+# B = int(input())
+# print(A*B)
 
