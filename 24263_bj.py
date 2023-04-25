@@ -1,9 +1,9 @@
 # -> Python
 # def MenOfPassion(A, n):
-#     answer = 0
+#     sum = 0
 #     for i in range(n):
-#         answer = answer + A[i]
-#     return answer
+#         sum = sum + A[i]
+#     return sum
 
 n = input()
 print(n)
