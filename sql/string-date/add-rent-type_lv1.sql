@@ -1,3 +1,6 @@
+/* 자동차 대여 기록에서 장기/단기 대여 구분하기 
+    programmers */
+
 SELECT HISTORY_ID, CAR_ID,
     DATE_FORMAT (START_DATE, '%Y-%m-%d') AS START_DATE,
     DATE_FORMAT (END_DATE, '%Y-%m-%d') AS END_DATE,
